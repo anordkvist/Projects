@@ -21,6 +21,7 @@ Welcome to my collection of projects! This repository showcases various projects
 **Collaboration:** Anna Tomberg (AstraZeneca)  
 **Description:** A study on various data valuation methods in classification and regression tasks.  
 **Technologies:** Data Valuation, Classification, Regression   
+
 ---
 
 ### Classifying Tweets
