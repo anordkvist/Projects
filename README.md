@@ -13,7 +13,6 @@ Welcome to my collection of projects! This repository showcases various projects
 **Course:** DIT247 Machine Learning for Natural Language Processing  
 **Description:** Utilizing a RAG system to respond to university course-related queries, enhancing syllabus accessibility.  
 **Technologies:** Natural Language Processing, RAG System, Large Language Models
-[More Details](#)
 
 ---
 
@@ -22,15 +21,12 @@ Welcome to my collection of projects! This repository showcases various projects
 **Collaboration:** Anna Tomberg (AstraZeneca)  
 **Description:** A study on various data valuation methods in classification and regression tasks.  
 **Technologies:** Data Valuation, Classification, Regression   
-[More Details](#)
-
 ---
 
 ### Classifying Tweets
 **Course:** DIT863 Statistical Methods for Data Science  
 **Description:** Developed a model to identify authors of tweets, encompassing stages from exploratory data analysis to model deployment.  
 **Technologies:** EDA, Text Preprocessing, Multinomial Naive Bayes, Support Vector Classifier   
-[More Details](#)
 
 ---
 
